@@ -1,2 +1,2 @@
-# UIP-misc
-repository for artwork, executables etc.
+# Graphics
+Repository containing artworks and logo designs for all NITDgpOS repos.
